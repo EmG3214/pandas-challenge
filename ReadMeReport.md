@@ -15,3 +15,8 @@ Finally, looking at the type of schools, I noticed that the overall passign rate
 
 Moving forward, I recommend the district looks into maintining smaller schools, and instead of necessarily pouring more money into the schools, try to find out the differences between the charter and disctict approaches to learning. 
 
+
+Here are some of the relevent charts: 
+![Alt text](image.png)
+![Alt text](image-1.png)
+![Alt text](image-2.png)
